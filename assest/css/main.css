@@ -21,4 +21,13 @@ button {
     background-color: green;
     color:white;
 }
+
+/* Cargar imagen de fondo*/
+div {
+    background-image: url('imgFond.png');
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+}
+
 /*
