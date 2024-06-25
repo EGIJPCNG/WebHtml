@@ -12,9 +12,13 @@ h1 {
 body {
     background-color: rgb(220, 255, 247);
 }
-
+/*Colorear otros tipo de elementos*/
 #mi-div {
     background-color: rgb(255, 255, 255);
 }
 
+button {
+    background-color: green;
+    color:white;
+}
 /*
