@@ -1,5 +1,20 @@
 /* #Colorear #textos #y #fondo */
 
+/*colorear texto con id*/
 #text-red {
     color: red
 }
+/*colorear elementos del tipo h1*/
+h1 {
+    color: blue;
+}
+/*colorear fondo de la página*/
+body {
+    background-color: rgb(220, 255, 247);
+}
+
+#mi-div {
+    background-color: azure;
+}
+
+/*
