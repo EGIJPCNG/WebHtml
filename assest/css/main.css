@@ -28,7 +28,7 @@ button {
 /* Cargar imagen de fondo*/
 body {
     background-image: url("../img/imgFond.png");
-    background-size: cover;
+    background-size: contain;
     height: 1414px;
     width: 2000px;
 }
