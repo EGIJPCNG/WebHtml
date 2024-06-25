@@ -14,7 +14,7 @@ body {
 }
 /*Colorear otros tipo de elementos*/
 #mi-div {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.103);
 }
 
 button {
