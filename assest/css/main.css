@@ -24,7 +24,7 @@ button {
 
 /* Cargar imagen de fondo*/
 div {
-    background-image: url('assest\imgFond.png');
+    background-image: url("../WEBHTML/assest/img/imgFond.png");
     background-size: cover;
     height: 300px;
     width: 300px;
