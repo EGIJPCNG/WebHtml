@@ -9,9 +9,12 @@ h1 {
     color: blue;
 }
 /*colorear fondo de la página*/
+
+/* Anterior Fondo del MAIN(pagina principal)
 body {
     background-color: rgb(220, 255, 247);
-}
+}*/
+
 /*Colorear otros tipo de elementos*/
 #mi-div {
     background-color: rgba(255, 255, 255, 0.103);
@@ -23,7 +26,7 @@ button {
 }
 
 /* Cargar imagen de fondo*/
-div {
+body {
     background-image: url("../img/imgFond.png");
     background-size: cover;
     height: 1414px;
