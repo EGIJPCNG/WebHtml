@@ -39,13 +39,12 @@ body {
     width: 2000px;
 }
 
-/* */
+/* Commenzar a centrar elementos en la pantalla */
 body {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
 }
 
 
