@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../ImportWebLogin"
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "Groq"
+	}
+}
