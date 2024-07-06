@@ -28,9 +28,9 @@ Se anima a la colaboración y al intercambio de conocimientos entre los particip
 
 Cómo participar
 
-Clona el repositorio en tu ordenador local.
-Crea una rama nueva para cada archivo HTML nuevo o modificación importante.
-Realiza los cambios deseados en tu rama.
-Prueba los cambios de forma local utilizando un navegador web.
-Sube los cambios a tu repositorio remoto y crea una solicitud de pull (pull request).
-Revisa el código de los demás participantes y deja comentarios si lo consideras necesario.
+1.Clona el repositorio en tu ordenador local.
+2.Crea una rama nueva para cada archivo HTML nuevo o modificación importante. (Por ahora trabajaremos en la misma rama "main")
+3.Realiza los cambios deseados en tu rama.
+4.Prueba los cambios de forma local utilizando un navegador web.
+5.Sube los cambios a tu repositorio remoto y crea una solicitud de pull (pull request).
+6.Revisa el código de los demás participantes y deja comentarios si lo consideras necesario.
