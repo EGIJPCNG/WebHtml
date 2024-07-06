@@ -1,0 +1,5 @@
+#preview-frame {
+    /* Este bloque de código oculta el elemento con el id 'preview-frame' y le da un borde gris claro. */
+    display: none;
+    border: 1px solid #ccc;
+}
